@@ -1,0 +1,8 @@
+Rain & thunder
+SoundBible.com
+S: background
+R: Rain & Thunder
+S: Pop
+R: Pling
+S: score
+R: Ta Da
